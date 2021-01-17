@@ -77,4 +77,8 @@
 
   vboxdrv.sh: Building VirtualBox kernel modules.
 
+  最后一步
+  
+  ```sudo adduser racing vboxusers```
+  
   搞定！
