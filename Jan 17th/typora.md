@@ -81,4 +81,10 @@
   
   ```sudo adduser racing vboxusers```
   
-  搞定！
+- 下载官方VBox-USB2.0扩展
+
+  ```https://download.virtualbox.org/virtualbox/6.1.16/Oracle_VM_VirtualBox_Extension_Pack-6.1.16.vbox-extpack```
+
+- 安装官方VBox-USB2.0扩展
+
+  直接双击安装
