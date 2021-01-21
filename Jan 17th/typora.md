@@ -21,7 +21,7 @@
   
   更新软件
 
-  ```sudo apt-get update && sudo apt-get install -y openssh-server vim curl ifstat firefox && sudo update-alternatives --set editor /usr/bin/vim.basic```
+  ```sudo apt-get update && sudo apt-get install -y openssh-server vim curl ifstat firefox ffmpeg && sudo update-alternatives --set editor /usr/bin/vim.basic```
 
   查看ip地址
 
